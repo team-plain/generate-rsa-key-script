@@ -1,0 +1,6 @@
+# Editor stuff
+.idea
+
+# Generated keys
+*.key.pem
+*.key.pem.pub
