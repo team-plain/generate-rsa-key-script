@@ -4,7 +4,13 @@ Script to generate RSA private and public key pairs for Plain.
 
 ## Usage
 
-To run the script:
+To run the script without cloning this repository:
+
+```shell
+bash <(curl -fsSL https://raw.githubusercontent.com/team-plain/generate-rsa-key-script/main/generate_rsa_key_pairs.sh)
+```
+
+To run this script after cloning out this repository:
 
 ```shell
 ./generate_rsa_key_pairs.sh
